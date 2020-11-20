@@ -1,3 +1,3 @@
 # Advanced_Programming_cpp
 
-This is a repository for a programming course in C++ (for my self-study).
+This is a repository for my self-study of C++.
