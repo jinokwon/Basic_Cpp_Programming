@@ -1,4 +1,5 @@
-/ This program displays a list of all the unique words found
+// Going to utilize a 'set'
+// This program displays a list of all the unique words found
 // in a specified text file.
 #include <iostream>
 #include <fstream>
