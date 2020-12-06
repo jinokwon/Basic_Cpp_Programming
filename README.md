@@ -1,4 +1,4 @@
 # CPP_Programming
 
-This is a repo for my self-study of C++.
+This is a repo for basic C++ syntax.
 Also contains a few example programs from texbooks.
